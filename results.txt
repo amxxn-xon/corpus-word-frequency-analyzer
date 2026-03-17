@@ -1,0 +1,26 @@
+--- CORPUS ANALYSIS RESULTS ---
+Total Sentences: 11
+Total Words: 266
+Average Word Length: 5.73 characters
+
+--- TOP 20 WORDS BY FREQUENCY ---
+the: 15
+to: 10
+a: 9
+of: 7
+in: 7
+as: 6
+than: 5
+tachyons: 5
+particles: 5
+light: 5
+would: 4
+that: 4
+tachyon: 4
+faster: 4
+speed: 3
+physics: 3
+its: 3
+fields: 3
+energy: 3
+by: 3
